@@ -1,5 +1,5 @@
+//Me made this change.
 package vishwa;
-
 
 import java.util.*;
 
@@ -28,6 +28,7 @@ public class ArrayInput {
             System.out.print(arr[i]+" ");
         }
         */
+        
         //For Objects
 
         String[] arr1=new String[4];
@@ -36,9 +37,8 @@ public class ArrayInput {
         }
         System.out.println(Arrays.toString(arr1));
         //modify
-        arr1[1]="skv";
+        arr1[1]="sma";
         System.out.println(Arrays.toString(arr1));
-
 
     }
 }
